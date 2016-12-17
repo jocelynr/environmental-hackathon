@@ -1,15 +1,56 @@
 #boat{
     height: 80px;
     width: 118px;
-    position: absolute;
     bottom: 0%;
 }
 
 #container{
-    background-image: url("pictures/ocean.jpeg");
-    background-size: contain;
     position: absolute;
+    background-image: url("pictures/ocean.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 100%;
     width: 100%;
+}
+ 
+#glassbottle {
+    height: 50px;
+    width: 25px;
+}
+
+#foamcup {
+    height: 50px ;
+    width: 25px;
+    
+}
+
+#crumbledpaper {
+    height: 50px;
+    width: 25px;
+}
+ 
+#can {
+    height: 50px;
+    width: 25px;
+}
+
+#lays {
+    height: 50px;
+    width: 25px;
+}
+
+#oilbarrel {
+    height: 50px;
+    width: 25px;
+}
+
+#plastic {
+    height: 50px;
+    width: 25px;
+}
+
+#sprite {
+    height: 50px;
+    width: 25px;
 }
 

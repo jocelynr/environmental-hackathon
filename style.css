@@ -1,0 +1,15 @@
+#boat{
+    height: 80px;
+    width: 118px;
+    position: absolute;
+    bottom: 0%;
+}
+
+#container{
+    background-image: url("pictures/ocean.jpeg");
+    background-size: contain;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
